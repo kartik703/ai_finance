@@ -1,0 +1,5 @@
+# config.py
+import os
+
+OPENAI_API_KEY = os.getenv("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")
+NEWS_API_KEY = os.getenv("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")

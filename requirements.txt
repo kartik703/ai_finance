@@ -1,0 +1,12 @@
+streamlit
+langchain
+openai
+yfinance
+matplotlib
+plotly
+newsapi-python
+faiss-cpu
+pandas
+requests
+beautifulsoup4
+tqdm
